@@ -1,5 +1,5 @@
 # Access site here: https://diyanmarkov.github.io/Responsive-website/
-📗 This project is for educational purpose only and all of the data in it is made up!
+📗 This project is for educational purposes only and all of the data in it is made up!
 
 # Built with:
 ![image](https://github.com/DiyanMarkov/Responsive-website/assets/121679485/4ab99c0a-3f06-4bdd-961d-469bd255446d)
